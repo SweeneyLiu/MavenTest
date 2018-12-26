@@ -35,6 +35,6 @@ dependencies {
         }
     }
 
-    implementation 'com.lsw.lighthttp:lighthttp:1.0.0@aar'
+    implementation 'com.lsw.lighthttp:lighthttp:1.1.0@aar'
 
 }
